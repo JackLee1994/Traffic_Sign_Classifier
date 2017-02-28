@@ -190,13 +190,11 @@ General caution 1.0
 Right-of-way at the next intersection 1.0
 Priority road 1.0
 
-
 End of speed limit (80km/h) 0.0725797
 Turn right ahead 9.79449e-05
 Go straight or left 3.85787e-09
 Beware of ice/snow 1.24023e-08
 Right-of-way at the next intersection 4.52573e-10
-
 
 Speed limit (80km/h) 9.72188e-05
 Turn left ahead 3.50892e-05
@@ -204,17 +202,16 @@ Keep right 4.89764e-21
 End of speed limit (80km/h) 1.17456e-09
 Speed limit (50km/h) 6.61042e-12
 
-
 Speed limit (50km/h) 5.2937e-05
 Keep right 1.97339e-07
 Turn right ahead 3.12704e-29
 Road work 2.85069e-10
 Stop 9.53769e-14
 
-
 Children crossing 1.38645e-09
 Go straight or right 1.0432e-09
 Keep left 4.36975e-34
 Priority road 4.95786e-16
 Yield 5.06717e-18
+
 For the second image ... 
