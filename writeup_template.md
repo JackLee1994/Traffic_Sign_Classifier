@@ -61,7 +61,7 @@ The code for this step is contained in the third code cell of the IPython notebo
 
 Here is an hist of my X_train
 
-![alt text][image1]
+![alt text][image2]
 
 ###Design and Test a Model Architecture
 
