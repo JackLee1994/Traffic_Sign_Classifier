@@ -56,7 +56,7 @@ Image data shape = (32, 32, 3)
 * The number of unique classes/labels in the data set is ?
 Number of classes = 43
 ####2. Include an exploratory visualization of the dataset and identify where the code is in your code file.
-
+![alt text][image1]
 The code for this step is contained in the third code cell of the IPython notebook.  
 
 Here is an hist of my X_train
