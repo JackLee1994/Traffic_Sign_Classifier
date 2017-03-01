@@ -21,12 +21,12 @@ The goals / steps of this project are the following:
 
 [image1]: ./image/hist.png "hist1"
 [image2]: ./image/exploratory_visualization.png "Grayscaling"
-[image3]: ./image/hist2 "hist2"
+[image3]: ./image/hist2.png "hist2"
 [image4]: ./image/image1.jpg "Traffic Sign 1"
-[image5]: ./image/image2 "Traffic Sign 2"
-[image6]: ./image/image3 "Traffic Sign 3"
-[image7]: ./image/image4 "Traffic Sign 4"
-[image8]: ./image/image5 "Traffic Sign 5"
+[image5]: ./image/image2.jpg "Traffic Sign 2"
+[image6]: ./image/image3.jpg "Traffic Sign 3"
+[image7]: ./image/image4.jpg "Traffic Sign 4"
+[image8]: ./image/image5.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
