@@ -76,7 +76,7 @@ Here is an example of all traffic sign image.
 
 ![alt text][image2]
 
-As a last step, I normalized the image data because he datatasets consist of 32x32 rgb images. I normalized the samples to the range of -0.5 and 0.5.Normalization is important in CNNs because of their learning process. CNNs learn by continually adding gradient error vectors computed from backpropagation to various weight matrices If I dont scale the input training vectors the ranges of our distributions of feature values would be different for each feature,resulting in corrections in each differing dimension.
+As a last step, I normalized the image data because he datatasets consist of 32x32 rgb images. I normalized the samples to the range of 0 and 1.Normalization is important in CNNs because of their learning process. CNNs learn by continually adding gradient error vectors computed from backpropagation to various weight matrices If I dont scale the input training vectors the ranges of our distributions of feature values would be different for each feature,resulting in corrections in each differing dimension.
 
 ####2. Describe how, and identify where in your code, you set up training, validation and testing data. How much data was in each set? Explain what techniques were used to split the data into these sets. (OPTIONAL: As described in the "Stand Out Suggestions" part of the rubric, if you generated additional data for training, describe why you decided to generate additional data, how you generated the data, identify where in your code, and provide example images of the additional data)
 
